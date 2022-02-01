@@ -20,7 +20,6 @@ $height = 150;
 */
 
 $xChar = ($width/2)-130;
-$yChar = 20;
 
 function generateColors() {
     $colors = [];
